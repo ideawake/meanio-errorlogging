@@ -1,0 +1,17 @@
+{
+  "name": "errorlogging",
+  "version": "0.0.1",
+  "description": "save errors from frontend with stacktrace-js",
+  "author": {
+    "name": "Tim Elfelt",
+    "github": "timelf123"
+  },
+  "mean": "0.6.1",
+  "dependencies": {
+    "stacktrace-js": "^1.3.1",
+    "promise-polyfill": "6.0.2"
+  },
+  "license": "MIT",
+  "scripts": {
+  }
+}
