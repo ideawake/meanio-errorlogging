@@ -9,3 +9,6 @@ $rootScope.$on('error', function(event, error){
   console.log('rootscope', error);
 })
 ```
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ideawake/meanio-errorlogging.svg)](https://greenkeeper.io/)
